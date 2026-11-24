@@ -22,16 +22,19 @@ I am a recent MSc Graduate of Local Economic Development at the London School of
 
 ------------------------------------------------------------------------
 
-### Selected Advisory Cases
+### Exisiting Portfolio Projects
 
-#### 📑 Analysis of Regional Commuter Friction & Labor Market Liquidity
+#### 📑 Nickel Mining In Indonesia
 
-- **The Mandate:** Evaluate the regional economic exposure and structural labor constraints caused by a critical transit corridor bottleneck.
-- **The Approach:** Supervised the deployment of a double-constrained Spatial Gravity Model using R (`sf` and `fixest`) to analyze 14.2 million commuter records. Modeled distance decay adjustments using network travel times rather than Euclidean distance.
-- **The Outcome:** Proved that targeted rapid-transit infrastructure adjustments would reduce spatial friction by 18%, unlocking access to an unmapped labor pool of **42,000 workers**.
-- **Deliverables:** [Interactive Dashboard](LINK) / [Executive Briefing Paper (PDF)](LINK)
+- **Why Nickel?** The industry has become essential to Indonesia's economic development strategy as they have implemented export restrictions and fostered downstream industrial development.
+- **Why Spatial Analysis?** There is debate over whether these economic benefits are enabling sustained material growth for nickel regions. Academic critiques have labelled the industry as forming a "nationalist enclave" strategy (Warburton, 2023). Analysis of the economic geographic realities contributes quantitative evidence to this debate.
+- **Data and Methods** Granular time-series economic data is scarce for this region in Indonesia. Remote-sensing satellite datasets where chosen to act as a proxy for economic data, nightlight acted as the main dependent variable. 
+All data was sourced through the internet and a full reference list can be found in the research page below.Remote-sensing data was sourced through Google Earth Engine (GEE), then cleaned in ArcGIS and R code, analysis was finally completed in R.
+Regression analysis used distance from industrial sites to determine effects on economic output. The main result indicator utilised a difference in difference approach while a range of logical forms and specifications, further strengthened findings.
+- **Outcomes** Results indicate that with each doubling distance from a smelting site there was a 67% lower chance of luminosity and 11% less probability of built development. The staggered difference in difference results further demonstrate the direct relation between new smelters and an increase in nightlight output.
+- **Deliverables** [Interactive Dashboard](LINK) / [Executive Briefing Paper (PDF)](LINK)
 
-#### 📑 Commercial Real Estate Portfolio & Market Share Optimization
+#### 📑 Has the Sydney new Metro M1 improved accessiblity or just caused house prices to increase?
 
 - **The Mandate:** Optimize site selection for a multi-million dollar retail development portfolio while minimizing internal market cannibalization.
 - **The Approach:** Designed a spatial interaction framework in Python (`PySAL`, `GeoPandas`) utilizing Huff’s Probability Surfaces to map competing catchments across localized demographics.
