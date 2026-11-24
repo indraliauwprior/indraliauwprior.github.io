@@ -1,5 +1,3 @@
-# indraliauwprior.github.io
-
 # Indra Samudra Liauw-Prior
 
 **Spatial Development Economics**
@@ -17,7 +15,9 @@ I am a recent MSc Graduate of Local Economic Development at the London School of
 ### Core Areas of Interest
 
 - **Spatial Econometrics & Forecasting:** Empirical modeling of trade, labor, and demographic flows utilizing advanced gravity models and spatial autoregressive frameworks.
+
 - **Infrastructure & Network Analytics:** Origin-Destination (O/D) matrix calibration, transport network impedance assessments, and catchment optimization.
+
 - **Analytics Supervision & Audit:** Implementation of rigorous code-validation pipelines, geometric reference system data controls, and boundary condition auditing.
 
 ------------------------------------------------------------------------
@@ -27,11 +27,16 @@ I am a recent MSc Graduate of Local Economic Development at the London School of
 #### 📑 Nickel Mining In Indonesia
 
 - **Why Nickel?** The industry has become essential to Indonesia's economic development strategy as they have implemented export restrictions and fostered downstream industrial development.
+
 - **Why Spatial Analysis?** There is debate over whether these economic benefits are enabling sustained material growth for nickel regions. Academic critiques have labelled the industry as forming a "nationalist enclave" strategy (Warburton, 2023). Analysis of the economic geographic realities contributes quantitative evidence to this debate.
+
 - **Data and Methods** Granular time-series economic data is scarce for this region in Indonesia. Remote-sensing satellite datasets where chosen to act as a proxy for economic data, nightlight acted as the main dependent variable. 
 All data was sourced through the internet and a full reference list can be found in the research page below.Remote-sensing data was sourced through Google Earth Engine (GEE), then cleaned in ArcGIS and R code, analysis was finally completed in R.
 Regression analysis used distance from industrial sites to determine effects on economic output. The main result indicator utilised a difference in difference approach while a range of logical forms and specifications, further strengthened findings.
+
 - **Outcomes** Results indicate that with each doubling distance from a smelting site there was a 67% lower chance of luminosity and 11% less probability of built development. The staggered difference in difference results further demonstrate the direct relation between new smelters and an increase in nightlight output.
+This work was graded as distinction as part of my MSc in Local Economic Development at the London School of Economics
+
 - **Deliverables** [Interactive Dashboard](LINK) / [Executive Briefing Paper (PDF)](LINK)
 
 #### 📑 Has the Sydney new Metro M1 improved accessiblity or just caused house prices to increase?
