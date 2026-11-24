@@ -8,7 +8,7 @@
 
 I am a recent MSc Graduate of Local Economic Development at the London School of Economics (LSE). My dissertation evaluated the effects of the nickel export ban in Indonesia that began in 2014, utilising R, GIS, and remote-sensing data. This portfolio highlights some of the passion projects and research questions that interest me. I employ economic theories combined with geographical data science to demonstrate economic geographical realities and analyse policy.
 
-[**Request Briefing**](indraliauwprior@gmail.com) \| [**LinkedIn**](www.linkedin.com/in/indra-liauw-prior-1a2b3c) \| [**Advisory Portfolio**](indraliauwprior.github.io)
+[**Contact Email**](indraliauwprior@gmail.com) \| [**LinkedIn**](www.linkedin.com/in/indra-liauw-prior-1a2b3c) \| [**Econometric Portfolio**](indraliauwprior.github.io)
 
 ------------------------------------------------------------------------
 
